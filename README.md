@@ -16,3 +16,7 @@ The objective is to evaluate potential investment opportunities, risks, and exit
 - Industry/market research
 - Risk-return assessment
 - PE strategic frameworks
+
+##  Contributors
+  Eya Arfaoui
+  Isra Ben Attia
